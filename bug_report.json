@@ -1,13 +1,14 @@
 {
   "bug_1":{
     "title": "text overlay in skills list",
-    "equipment": "Redmi_Note_9"
+    "equipment": "Redmi_Note_9",
     "URL": "https://ksendzov.com/",
     "steps": {
-      "first":"go to https://ksendzov.com/,
+      "first":"go to https://ksendzov.com/",
       "second": "scroll to the bottom of the list Course Program"
-        }
-              
+        },
+    "actual_result":"the last line of the program will overlap with the next heading",
+    "expected_result":"text without overlays"         
     
     
   }
